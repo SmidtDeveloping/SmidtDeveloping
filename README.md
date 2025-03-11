@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julian Smidt</h1>
 <h3 align="center">A passionate backend developer from The Netherlands</h3>
 
-- 🔭 I’m currently working on [samkeen.nl](samkeen.nl)
+- 🔭 I’m currently working on [Zindex Services](https://github.com/organizations/Z-Index-Discord-Bot)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Electron JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SmidtDeveloping](https://github.com/SmidtDeveloping)
 
