@@ -9,9 +9,6 @@
 
 - 📫 How to reach me **teweinig12@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -21,6 +18,8 @@
 
 </p>
 
+<h3 align="left">Stats:</h3>
+<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SmidtDeveloping&theme=tokyonight&chart=bars" alt="SmidtDeveloping Stats">
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/developingbyjulian"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="developingbyjulian" /></a></p><br><br>
