@@ -1,25 +1,43 @@
-<h1 align="center">Hi 👋, I'm Julian Smidt</h1>
-<h3 align="center">A passionate backend developer from The Netherlands</h3>
+# Hi 👋, Ik ben Julian Smidt
+### Een gepassioneerde backend developer uit Nederland
 
-- 🔭 I’m currently working on [Zindex Services](https://github.com/organizations/Z-Index-Discord-Bot)
-
-- 🌱 I’m currently learning **Electron JS**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SmidtDeveloping](https://github.com/SmidtDeveloping)
-
-- 📫 How to reach me **teweinig12@gmail.com**
-
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="center">
-    <a href="https://github.com/SmidtDeveloping">
-    <img src="https://skillicons.dev/icons?i=js,html,css,electron,express,nodejs,ts,mongo,mysql,bootstrap,git,github,heroku,py,discordjs,discord,raspberrypi,robloxstudio,lua,vscode&perline=4&theme=dark" />
-    </a>
-
+  <a href="https://github.com/SmidtDeveloping" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js,html,css,electron,express,nodejs,ts,mongo,mysql,bootstrap,git,github,heroku,py,discordjs,discord,raspberrypi,robloxstudio,lua,vscode&perline=4&theme=dark" alt="Tech Stack" />
+  </a>
 </p>
 
-<h3 align="left">Stats:</h3>
-<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SmidtDeveloping&theme=tokyonight&chart=bars" alt="SmidtDeveloping Stats">
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/developingbyjulian"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="developingbyjulian" /></a></p><br><br>
+### 🔭 Waar ik momenteel aan werk:
+- [Zindex Services](https://github.com/organizations/Z-Index-Discord-Bot)
+
+### 🌱 Momenteel leer ik:
+- **Electron JS**
+
+### 👨‍💻 Al mijn projecten zijn te vinden op:
+- [Mijn GitHub](https://github.com/SmidtDeveloping)
+
+### 📫 Hoe je me kunt bereiken:
+- **E-mail**: [teweinig12@gmail.com](mailto:teweinig12@gmail.com)
+
+---
+
+### 📊 Mijn GitHub Statistieken:
+<p align="center">
+  <img src="https://github-stats-card-generator.vercel.app/api/svg?username=SmidtDeveloping&theme=tokyonight&chart=bars" alt="SmidtDeveloping Stats" />
+</p>
+
+---
+
+### 💖 Ondersteun me:
+Als je mijn werk leuk vindt en me wilt ondersteunen, voel je dan vrij om me een koffie te kopen! ☕
+<p align="center">
+  <a href="https://www.buymeacoffee.com/developingbyjulian">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support Julian" />
+  </a>
+</p>
+
+---
+
+Bedankt voor het bezoeken van mijn profiel! 😊
