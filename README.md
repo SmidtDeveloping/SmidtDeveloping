@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/SmidtDeveloping" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,html,css,electron,express,nodejs,ts,mongo,mysql,bootstrap,git,github,heroku,py,discordjs,discord,raspberrypi,robloxstudio,lua,vscode&perline=4&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,electron,express,nodejs,ts,mongo,mysql,bootstrap,git,github,heroku,py,discordjs,discord,raspberrypi,robloxstudio,lua,vscode,java,minecraft&perline=4&theme=dark" alt="Tech Stack" />
   </a>
 </p>
 
