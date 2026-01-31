@@ -9,20 +9,6 @@
 
 ---
 
-### 🔭 Waar ik momenteel aan werk:
-- [Zindex Services](https://github.com/organizations/Z-Index-Discord-Bot)
-
-### 🌱 Momenteel leer ik:
-- **Electron JS**
-
-### 👨‍💻 Al mijn projecten zijn te vinden op:
-- [Mijn GitHub](https://github.com/SmidtDeveloping)
-
-### 📫 Hoe je me kunt bereiken:
-- **E-mail**: [teweinig12@gmail.com](mailto:teweinig12@gmail.com)
-
----
-
 ### 📊 Mijn GitHub Statistieken:
 <p align="center">
   <img src="https://github-stats-card-generator.vercel.app/api/svg?username=SmidtDeveloping&theme=tokyonight&chart=bars" alt="SmidtDeveloping Stats" />
